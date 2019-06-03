@@ -1,3 +1,8 @@
+# laraveltodo
+
+The application communicates with an EmberJS 2.18 application through JSON. For the purpose of the application, header('Access-Control-Allow-Origin: *'); is currently set and you might need to change it to give access only to specific domains.
+  
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
@@ -24,5 +29,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
-# laraveltodo
+
