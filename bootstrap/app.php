@@ -13,6 +13,7 @@
 header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: GET, PUT, POST, DELETE, HEAD, PATCH');
 header('Access-Control-Allow-Headers: origin, content-type, accept');
+header('Access-Control-Allow-Credentials: true');
 
 $app = new Illuminate\Foundation\Application(
     realpath(__DIR__.'/../')
