@@ -1,6 +1,6 @@
 # laraveltodo
 
-The application communicates with an EmberJS 2.18 application through JSON. For the purpose of the application, header('Access-Control-Allow-Origin: *'); is currently set and you might need to change it to give access only to specific domains.
+This application communicates with an EmberJS 2.18 application through JSON. It has Laravel 5.2.45. For the purpose of the application, header('Access-Control-Allow-Origin: *'); is currently set and you might need to change it to give access only to specific domains.
   
 
 # Laravel PHP Framework
